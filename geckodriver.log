@@ -1,0 +1,246 @@
+1659911027653	geckodriver	INFO	Listening on 127.0.0.1:53479
+1659911030798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileddK8X6"
+1659911032172	Marionette	INFO	Marionette enabled
+1659911032185	Marionette	INFO	Listening on port 53489
+Read port: 53489
+WebDriver BiDi listening on ws://localhost:53480
+1659911032567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileddK8X6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53480/devtools/browser/5e5c7ee9-9de8-4635-8b30-caf88d5bd153
+1659911145303	Marionette	INFO	Stopped listening on port 53489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile9MzjK1"
+1659911141095	Marionette	INFO	Marionette enabled
+1659911141105	Marionette	INFO	Listening on port 53543
+WebDriver BiDi listening on ws://localhost:53534
+Read port: 53543
+1659911141501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile9MzjK1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53534/devtools/browser/3ebc5ded-3182-4716-908a-5b083accd1af
+1659913389982	geckodriver	INFO	Listening on 127.0.0.1:53675
+1659913393041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileO6HqGJ"
+1659913394053	Marionette	INFO	Marionette enabled
+1659913394066	Marionette	INFO	Listening on port 53685
+WebDriver BiDi listening on ws://localhost:53676
+Read port: 53685
+1659913394463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileO6HqGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53676/devtools/browser/20953178-8f3b-4965-8341-6928f1718f3b
+1659913958043	geckodriver	INFO	Listening on 127.0.0.1:53776
+1659913961114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileB0hcYT"
+1659913962301	Marionette	INFO	Marionette enabled
+1659913962315	Marionette	INFO	Listening on port 53786
+WebDriver BiDi listening on ws://localhost:53777
+Read port: 53786
+1659913962877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileB0hcYT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53777/devtools/browser/9bec7b45-4cf9-4c01-802c-64cc949931eb
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914112630	Marionette	INFO	Stopped listening on port 53786
+9914110924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilewUtHb1"
+1659914111957	Marionette	INFO	Marionette enabled
+1659914111966	Marionette	INFO	Listening on port 53836
+WebDriver BiDi listening on ws://localhost:53827
+Read port: 53836
+1659914112482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilewUtHb1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53827/devtools/browser/61b63476-b288-4d0b-80bb-5c13bbe3c982
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914216593	Marionette	INFO	Stopped listening on port 53836
+9914209063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileA3hUyt"
+1659914209978	Marionette	INFO	Marionette enabled
+1659914209992	Marionette	INFO	Listening on port 53880
+WebDriver BiDi listening on ws://localhost:53871
+Read port: 53880
+1659914210376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileA3hUyt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53871/devtools/browser/460d9c6a-4f9e-4bd2-9f29-c5e182afd90c
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914283979	Marionette	INFO	Stopped listening on port 53880
+9914280072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofiled7bIxY"
+1659914281067	Marionette	INFO	Marionette enabled
+1659914281080	Marionette	INFO	Listening on port 53924
+WebDriver BiDi listening on ws://localhost:53915
+Read port: 53924
+1659914281583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofiled7bIxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53915/devtools/browser/ea84e235-6270-42eb-ad21-b1d4963d9bc1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914712584	geckodriver	INFO	Listening on 127.0.0.1:54009
+1659914715620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile5iq4Ca"
+1659914716374	Marionette	INFO	Marionette enabled
+1659914716385	Marionette	INFO	Listening on port 54019
+WebDriver BiDi listening on ws://localhost:54010
+Read port: 54019
+1659914716755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile5iq4Ca\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54010/devtools/browser/8a175989-2df6-44fd-be8e-cb95e9cdebd2
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914847316	geckodriver	INFO	Listening on 127.0.0.1:54056
+1659914850398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile7DDvQD"
+1659914851151	Marionette	INFO	Marionette enabled
+1659914851166	Marionette	INFO	Listening on port 54066
+WebDriver BiDi listening on ws://localhost:54057
+Read port: 54066
+1659914851548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile7DDvQD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54057/devtools/browser/f067aa55-c888-4502-b0c3-14e3613b5928
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914946167	geckodriver	INFO	Listening on 127.0.0.1:54107
+1659914949233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileEhS0gr"
+1659914950082	Marionette	INFO	Marionette enabled
+1659914950092	Marionette	INFO	Listening on port 54117
+WebDriver BiDi listening on ws://localhost:54108
+Read port: 54117
+1659914950467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileEhS0gr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54108/devtools/browser/019ef271-9680-4f45-a56b-09778a864f53
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659914991378	geckodriver	INFO	Listening on 127.0.0.1:54143
+1659914994434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilefOFVBK"
+1659914995164	Marionette	INFO	Marionette enabled
+1659914995179	Marionette	INFO	Listening on port 54153
+WebDriver BiDi listening on ws://localhost:54144
+Read port: 54153
+1659914995525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilefOFVBK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54144/devtools/browser/8c26a171-15fb-4242-bfe4-d19283f966ec
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659915068517	geckodriver	INFO	Listening on 127.0.0.1:54181
+1659915071561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilegGME53"
+1659915072704	Marionette	INFO	Marionette enabled
+1659915072719	Marionette	INFO	Listening on port 54191
+WebDriver BiDi listening on ws://localhost:54182
+Read port: 54191
+1659915348594	geckodriver	INFO	Listening on 127.0.0.1:54215
+1659915351670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileMJVXEl"
+1659915352403	Marionette	INFO	Marionette enabled
+1659915352414	Marionette	INFO	Listening on port 54225
+WebDriver BiDi listening on ws://localhost:54216
+Read port: 54225
+1659915352807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileMJVXEl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54216/devtools/browser/16a17112-c086-44f7-b4bf-3b47316683cd
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659915423739	geckodriver	INFO	Listening on 127.0.0.1:54273
+1659915426822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilea05nBL"
+1659915427538	Marionette	INFO	Marionette enabled
+1659915427549	Marionette	INFO	Listening on port 54283
+WebDriver BiDi listening on ws://localhost:54274
+Read port: 54283
+1659915427911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilea05nBL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54274/devtools/browser/d805f4ad-6bac-474b-ba0e-901650d88a34
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659919455706	geckodriver	INFO	Listening on 127.0.0.1:54540
+1659919458771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile1eawE9"
+1659919459874	Marionette	INFO	Marionette enabled
+1659919459886	Marionette	INFO	Listening on port 54550
+WebDriver BiDi listening on ws://localhost:54541
+Read port: 54550
+1659919460287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile1eawE9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54541/devtools/browser/b8b5ee52-b9c8-49cf-a19d-c84a514f7dcf
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659919695770	geckodriver	INFO	Listening on 127.0.0.1:54699
+1659919698847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileVvOo6N"
+1659919699931	Marionette	INFO	Marionette enabled
+1659919699945	Marionette	INFO	Listening on port 54709
+WebDriver BiDi listening on ws://localhost:54700
+Read port: 54709
+1659919700361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileVvOo6N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54700/devtools/browser/a98ddaef-b174-4c27-b670-cddeccedd336
+1659920303195	geckodriver	INFO	Listening on 127.0.0.1:55081
+1659920306297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilelwbIJx"
+1659920307756	Marionette	INFO	Marionette enabled
+1659920307802	Marionette	INFO	Listening on port 55098
+WebDriver BiDi listening on ws://localhost:55082
+Read port: 55098
+1659920308392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilelwbIJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55082/devtools/browser/6f625b7b-c7fd-42ef-8233-7c43945e3fcf
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659920595872	geckodriver	INFO	Listening on 127.0.0.1:55205
+1659920598956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileT1zL1b"
+1659920600061	Marionette	INFO	Marionette enabled
+1659920600070	Marionette	INFO	Listening on port 55215
+WebDriver BiDi listening on ws://localhost:55206
+Read port: 55215
+1659920600322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileT1zL1b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55206/devtools/browser/02b83665-04a1-455d-8986-1abcf5578078
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659921165105	geckodriver	INFO	Listening on 127.0.0.1:55335
+1659921168185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile3oPHFJ"
+1659921168981	Marionette	INFO	Marionette enabled
+1659921168996	Marionette	INFO	Listening on port 55345
+WebDriver BiDi listening on ws://localhost:55336
+Read port: 55345
+1659921169339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofile3oPHFJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55336/devtools/browser/16d2865a-0181-42f9-b31a-1db364f45c75
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659921248759	geckodriver	INFO	Listening on 127.0.0.1:55382
+1659921251799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileASlAhz"
+1659921253023	Marionette	INFO	Marionette enabled
+1659921253034	Marionette	INFO	Listening on port 55392
+WebDriver BiDi listening on ws://localhost:55383
+Read port: 55392
+1659921253480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileASlAhz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55383/devtools/browser/0fa47a22-a2f2-48a4-bfaa-b13c145a1ed2
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659921448552	geckodriver	INFO	Listening on 127.0.0.1:55451
+1659921451631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileDKWErM"
+1659921452429	Marionette	INFO	Marionette enabled
+1659921452440	Marionette	INFO	Listening on port 55461
+WebDriver BiDi listening on ws://localhost:55452
+Read port: 55461
+1659921452808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileDKWErM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55452/devtools/browser/405be196-448c-43a7-b585-bf923071a432
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659921527829	geckodriver	INFO	Listening on 127.0.0.1:55487
+1659921530869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileFaVETh"
+1659921531843	Marionette	INFO	Marionette enabled
+1659921531859	Marionette	INFO	Listening on port 55497
+WebDriver BiDi listening on ws://localhost:55488
+Read port: 55497
+1659921532303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofileFaVETh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55488/devtools/browser/2de8af0f-ac00-4668-8baf-3125357851da
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
+1659922428847	geckodriver	INFO	Listening on 127.0.0.1:55628
+1659922431913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilegETTth"
+1659922432895	Marionette	INFO	Marionette enabled
+1659922432908	Marionette	INFO	Listening on port 55638
+WebDriver BiDi listening on ws://localhost:55629
+Read port: 55638
+1659922433319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\crist\\AppData\\Local\\Temp\\rust_mozprofilegETTth\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55629/devtools/browser/104694a1-5e70-4b17-a023-c5703c6c1cab
+JavaScript error: file:///c:/users/crist/WandroidX.github.io/index.js, line 1: ReferenceError: $ is not defined
